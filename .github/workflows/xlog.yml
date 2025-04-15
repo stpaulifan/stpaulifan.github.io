@@ -40,7 +40,7 @@ jobs:
         run: |
           ../xlog \
           --build . \
-          --sitename "stpaulifan"
+          --sitename "My digital garden"
           rm *.md
           chmod -R 0777 .          
 
