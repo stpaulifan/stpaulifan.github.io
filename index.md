@@ -17,11 +17,11 @@ I'm from Germany and based in Switzerland. I'm an application manager.
 
 # Hobbies
 
-* :repair: repair instructions 
-* :video_game:  Video Games
-* :programming: Programming
-* :decentral: Decentral technologies and Web3.0
-* :other: Other stuff 
+* 🪛 repair instructions 
+* 🎮:  Video Games
+* ⌨️ Programming
+* 💻 Decentral technologies and Web3.0
+* ✏️ Other stuff 
 
 
 # About
