@@ -29,7 +29,7 @@ I'm from Germany and based in Switzerland. I'm an application manager.
 ## This site
 
 * Xlog built this website from [github.com/stpaulifan/stpaulifan.github.io](https://github.com/stpaulifan/stpaulifan.github.io).
-* If you found any typos or mistakes please click on "Edit on Github" button at the top right then open a pull request with the changes :pray: 
 
 ## Me
+
 * [about me](about.md)
