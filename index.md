@@ -16,7 +16,7 @@ Ich bin aus Deutschland aber wohnhaft in der Schweiz. Beruflich arbeite ich als 
 
 # Hobbies
 
-* [🥾 Wandern](hikinh)
+* [🥾 Wandern](hiking.md)
 * 🎮 Videospiele
 * 🪛 Reparatur Anleitungen
 * 💻 spannende Technologien
