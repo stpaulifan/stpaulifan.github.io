@@ -16,15 +16,15 @@ Ich bin aus Deutschland aber wohnhaft in der Schweiz. Beruflich arbeite ich als 
 
 # Hobbies
 
-* [🥾 Hiking](hikinh)
-* 🎮 Video Games
-* 🪛 Repair instructions
-* 💻 Technologies
-* ✏️ Other stuff 
+* [🥾 Wandern](hikinh)
+* 🎮 Videospiele
+* 🪛 Reparatur Anleitungen
+* 💻 spannende Technologien
+* ✏️ Andere 
 
 
-# About
+# Über
 
-## This site
+## Diese Seite
 
-* Xlog built this website from [github.com/stpaulifan/stpaulifan.github.io](https://github.com/stpaulifan/stpaulifan.github.io).
+* diese Seite wurde mit xlog erstellt [github.com/stpaulifan/stpaulifan.github.io](https://github.com/stpaulifan/stpaulifan.github.io).
