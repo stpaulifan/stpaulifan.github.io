@@ -8,6 +8,9 @@ tags:
   - tagesausflug
 ---
 
+![Schifffahrt Untersee und Rhein](/bilder/schifffahrt-untersee-rhein.webp)
+_Schifffahrt Untersee und Rhein · Foto: JoachimKohler-HB, [CC BY-SA 4.0](<https://commons.wikimedia.org/wiki/File:Rathausplatz_%26_Rathaus_in_Stein_am_Rhein_SH_(M%C3%A4rz_2020).jpg>) via Wikimedia Commons_
+
 **Wo:** Kreuzlingen – Stein am Rhein – Schaffhausen  
 **Anreise ab Kreuzlingen:** Schiffsanlegestelle Kreuzlingen Hafen  
 **Saison:** ca. April bis Oktober  

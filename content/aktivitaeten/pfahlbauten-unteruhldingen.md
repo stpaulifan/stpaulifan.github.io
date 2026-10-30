@@ -8,6 +8,9 @@ tags:
   - museum
 ---
 
+![Pfahlbaumuseum Unteruhldingen](/bilder/pfahlbauten-unteruhldingen.webp)
+_Pfahlbaumuseum Unteruhldingen · Foto: AngMoKio, [CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Pfahlbaumuseum_Unteruhldingen_amk.jpg) via Wikimedia Commons_
+
 **Wo:** Uhldingen-Mühlhofen (DE)  
 **Anreise ab Kreuzlingen:** Fähre Konstanz–Meersburg, dann Bus oder Schiff; ca. 1 h  
 **Saison:** ca. April bis Anfang November, im Winter eingeschränkt  

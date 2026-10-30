@@ -8,6 +8,9 @@ tags:
   - kinder
 ---
 
+![Pfänder Bregenz](/bilder/pfaender.webp)
+_Pfänder Bregenz · Foto: A.Savin, [FAL](https://commons.wikimedia.org/wiki/File:Bregenz_asv2022-10_img10_Pf%C3%A4nderbahn_Blick_aus_Gondel.jpg) via Wikimedia Commons_
+
 |                            |                                                                                       |
 | -------------------------- | ------------------------------------------------------------------------------------- |
 | **Region**                 | Vorarlberg (AT)                                                                       |

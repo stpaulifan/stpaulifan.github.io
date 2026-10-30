@@ -8,6 +8,9 @@ tags:
   - kinder
 ---
 
+![Kronberg](/bilder/kronberg.webp)
+_Kronberg · Foto: Hansueli Krapf, [CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Aerial_View_of_Kronberg_and_S%C3%A4ntis_14.02.2008_14-43-45.JPG) via Wikimedia Commons_
+
 |                            |                                                        |
 | -------------------------- | ------------------------------------------------------ |
 | **Region**                 | Appenzell Innerrhoden                                  |

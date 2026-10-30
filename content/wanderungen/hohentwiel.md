@@ -8,6 +8,9 @@ tags:
   - kinder
 ---
 
+![Hohentwiel](/bilder/hohentwiel.webp)
+_Hohentwiel · Foto: Carsten Steger, [CC BY-SA 4.0](<https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Hohentwiel_Castle_(view_from_the_south).jpg>) via Wikimedia Commons_
+
 |                            |                                                           |
 | -------------------------- | --------------------------------------------------------- |
 | **Region**                 | Hegau (DE)                                                |

@@ -8,6 +8,9 @@ tags:
   - kostenlos
 ---
 
+![Seeburgpark Kreuzlingen](/bilder/seeburgpark-kreuzlingen.webp)
+_Seeburgpark Kreuzlingen · Foto: Pingelig, [CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:SeeburgparkKreuzlingen.jpg) via Wikimedia Commons_
+
 **Wo:** Kreuzlingen, am Seeufer  
 **Anreise ab Kreuzlingen:** ca. 15 Min. zu Fuss vom Bahnhof Kreuzlingen  
 **Saison:** ganzjährig  

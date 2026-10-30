@@ -8,6 +8,9 @@ tags:
   - museum
 ---
 
+![Zeppelin Museum Friedrichshafen](/bilder/zeppelin-museum-friedrichshafen.webp)
+_Zeppelin Museum Friedrichshafen · Foto: Daderot, [CC0](https://commons.wikimedia.org/wiki/File:General_view_-_Zeppelin_Museum_Friedrichshafen_-_DSC06788.jpg) via Wikimedia Commons_
+
 **Wo:** Friedrichshafen (DE)  
 **Anreise ab Kreuzlingen:** mit dem Katamaran ab Konstanz ca. 50 Min., das Museum liegt am Hafen  
 **Saison:** ganzjährig  

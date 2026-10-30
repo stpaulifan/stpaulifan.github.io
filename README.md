@@ -11,6 +11,7 @@ Alle Inhalte liegen als Markdown in `content/`:
 - `content/aktivitaeten/` – eine Notiz pro Aktivität
 - `content/wanderungen/` – eine Notiz pro Wanderung
 - `content/tags/` – Einleitungstexte der Kategorien
+- `content/bilder/` – Bilder (WebP, max. 1200 px), eingebunden mit `![Alt](/bilder/name.webp)`
 - `content/templates/` – Vorlagen für neue Notizen (werden nicht veröffentlicht)
 
 Die Kategorien sind Tags im Frontmatter. Eine Notiz erscheint automatisch in jeder Kategorie, deren Tag sie trägt:

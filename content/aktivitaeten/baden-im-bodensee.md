@@ -8,6 +8,9 @@ tags:
   - konstanz
 ---
 
+![Baden im Bodensee](/bilder/baden-im-bodensee.webp)
+_Baden im Bodensee · Foto: Rizzo, [CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Blick_auf_Konstanzer_H%C3%B6rnle_und_schweizer_Ufer.jpg) via Wikimedia Commons_
+
 **Wo:** Kreuzlingen und Konstanz  
 **Anreise ab Kreuzlingen:** zu Fuss, mit dem Velo oder Bus  
 **Saison:** ca. Mai bis September  

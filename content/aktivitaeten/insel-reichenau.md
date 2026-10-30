@@ -7,6 +7,9 @@ tags:
   - velo
 ---
 
+![Insel Reichenau](/bilder/insel-reichenau.webp)
+_Insel Reichenau · Foto: Gerhard Giebener, [CC BY 2.0](<https://commons.wikimedia.org/wiki/File:Insel_Reichenau_-_Stiftskirche_St_Georg_in_Oberzell_(10490933155).jpg>) via Wikimedia Commons_
+
 **Wo:** Reichenau (DE), Untersee  
 **Anreise ab Kreuzlingen:** Zug bis Reichenau, dann Velo oder Bus über den Damm; oder mit dem Schiff  
 **Saison:** ganzjährig, am schönsten Frühling bis Herbst  

@@ -7,6 +7,9 @@ tags:
   - tagesausflug
 ---
 
+![Übersichtsplan des Walter Zoo](/bilder/walter-zoo-gossau.webp)
+_Übersichtsplan des Walter Zoo · Foto: Hardwareonkel, [CC0](https://commons.wikimedia.org/wiki/File:Uebersicht-Zoo-Gossau-CH.jpg) via Wikimedia Commons_
+
 **Wo:** Gossau SG  
 **Anreise ab Kreuzlingen:** ca. 1 h mit dem Zug via Weinfelden  
 **Saison:** ganzjährig  

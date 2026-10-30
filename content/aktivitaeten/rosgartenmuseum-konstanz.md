@@ -7,6 +7,9 @@ tags:
   - museum
 ---
 
+![Rosgartenmuseum](/bilder/rosgartenmuseum-konstanz.webp)
+_Rosgartenmuseum · Foto: JoachimKohler-HB, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Rosgartenmuseum,_Rosgartenstr._5,_Konstanz.jpg) via Wikimedia Commons_
+
 **Wo:** Konstanz, Altstadt  
 **Anreise ab Kreuzlingen:** ca. 15 Min. zu Fuss vom Bahnhof Kreuzlingen  
 **Saison:** ganzjährig, montags meist geschlossen  

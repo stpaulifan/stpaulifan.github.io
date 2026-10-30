@@ -7,6 +7,9 @@ tags:
   - konstanz
 ---
 
+![Rochen im Sea Life Konstanz](/bilder/sea-life-konstanz.webp)
+_Rochen im Sea Life · Foto: Gargolla, [CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Sea_Life_Konstanz_Rochen.jpg) via Wikimedia Commons_
+
 **Wo:** Konstanz, beim Hafen neben dem Bahnhof  
 **Anreise ab Kreuzlingen:** ca. 15 Min. zu Fuss vom Bahnhof Kreuzlingen  
 **Saison:** ganzjährig  

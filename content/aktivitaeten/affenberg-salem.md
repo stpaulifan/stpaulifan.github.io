@@ -7,6 +7,9 @@ tags:
   - tagesausflug
 ---
 
+![Affenberg Salem](/bilder/affenberg-salem.webp)
+_Affenberg Salem · Foto: H. Zell, [CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Macaca_sylvanus_-_Affenberg_Salem_-_02.jpg) via Wikimedia Commons_
+
 **Wo:** Salem (DE)  
 **Anreise ab Kreuzlingen:** Fähre nach Meersburg, dann Bus oder Auto; ca. 1 h  
 **Saison:** ca. Mitte März bis Anfang November  

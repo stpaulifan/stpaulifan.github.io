@@ -8,6 +8,9 @@ tags:
   - tagesausflug
 ---
 
+![Conny-Land](/bilder/conny-land.webp)
+_Conny-Land · Foto: Christophe95, [CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Cobra_Conny-Land.JPG) via Wikimedia Commons_
+
 **Wo:** Lipperswil TG  
 **Anreise ab Kreuzlingen:** ca. 30 Min. mit dem Auto, mit ÖV ca. 1 h  
 **Saison:** ca. April bis Oktober  

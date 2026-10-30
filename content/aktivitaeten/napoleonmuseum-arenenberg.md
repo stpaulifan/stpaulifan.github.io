@@ -8,6 +8,9 @@ tags:
   - museum
 ---
 
+![Napoleonmuseum Arenenberg](/bilder/napoleonmuseum-arenenberg.webp)
+_Napoleonmuseum Arenenberg · Foto: JoachimKohler-HB, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Schloss_Arenenberg_am_Untersee.jpg) via Wikimedia Commons_
+
 **Wo:** Salenstein TG  
 **Anreise ab Kreuzlingen:** ca. 20 Min. mit dem Zug bis Mannenbach-Salenstein, dann ca. 15 Min. bergauf  
 **Saison:** ganzjährig, Öffnungszeiten prüfen  

@@ -7,6 +7,9 @@ tags:
   - gutwetter
 ---
 
+![Hoher Kasten – Saxer Lücke – Brülisau](/bilder/hoher-kasten-saxer-luecke.webp)
+_Hoher Kasten – Saxer Lücke – Brülisau · Foto: Sabrina Schreiber, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Saxer_L%C3%BCcke.jpg) via Wikimedia Commons_
+
 |                            |                                                        |
 | -------------------------- | ------------------------------------------------------ |
 | **Region**                 | Appenzell Innerrhoden                                  |

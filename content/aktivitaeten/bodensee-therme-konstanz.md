@@ -7,6 +7,9 @@ tags:
   - konstanz
 ---
 
+![Bodensee-Therme Konstanz](/bilder/bodensee-therme-konstanz.webp)
+_Bodensee-Therme Konstanz · Foto: JoachimKohler-HB, [CC BY-SA 4.0](<https://commons.wikimedia.org/wiki/File:Bodensee-Therme_Konstanz_(Teilansicht_-_2013).jpg>) via Wikimedia Commons_
+
 **Wo:** Konstanz, am Seeufer östlich der Innenstadt  
 **Anreise ab Kreuzlingen:** mit dem Bus ab Bahnhof Konstanz oder ca. 15 Min. mit dem Velo  
 **Saison:** ganzjährig  

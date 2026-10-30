@@ -8,6 +8,9 @@ tags:
   - museum
 ---
 
+![Archäologisches Landesmuseum](/bilder/archaeologisches-landesmuseum.webp)
+_Archäologisches Landesmuseum · Foto: FA2010, [Public domain](https://commons.wikimedia.org/wiki/File:Konstanz_ALM_Flur.jpg) via Wikimedia Commons_
+
 **Wo:** Konstanz-Petershausen, auf der anderen Rheinseite  
 **Anreise ab Kreuzlingen:** ca. 25 Min. zu Fuss oder mit dem Bus  
 **Saison:** ganzjährig, montags geschlossen  

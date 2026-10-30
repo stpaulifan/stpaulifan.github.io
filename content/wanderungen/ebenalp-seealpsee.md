@@ -7,6 +7,9 @@ tags:
   - gutwetter
 ---
 
+![Ebenalp – Äscher – Seealpsee](/bilder/ebenalp-seealpsee.webp)
+_Ebenalp – Äscher – Seealpsee · Foto: albinfo, [CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Seealpsee_Juni2018_04.jpg) via Wikimedia Commons_
+
 |                            |                                                                                      |
 | -------------------------- | ------------------------------------------------------------------------------------ |
 | **Region**                 | Appenzell Innerrhoden                                                                |

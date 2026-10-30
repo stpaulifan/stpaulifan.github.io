@@ -9,6 +9,9 @@ tags:
   - kostenlos
 ---
 
+![Velotour am Seerhein und Untersee](/bilder/velotour-seerhein.webp)
+_Velotour am Seerhein und Untersee · Foto: JoachimKohler-HB, [CC BY-SA 4.0](<https://commons.wikimedia.org/wiki/File:Schloss_Gottlieben_am_Seerhein_(2021).jpg>) via Wikimedia Commons_
+
 **Wo:** Kreuzlingen – Gottlieben – Ermatingen  
 **Anreise ab Kreuzlingen:** Start direkt in Kreuzlingen  
 **Saison:** ganzjährig, am schönsten Frühling bis Herbst  

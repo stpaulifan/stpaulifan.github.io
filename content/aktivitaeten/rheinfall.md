@@ -7,6 +7,9 @@ tags:
   - tagesausflug
 ---
 
+![Rheinfall Schaffhausen](/bilder/rheinfall.webp)
+_Rheinfall Schaffhausen · Foto: Christian David, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Chutes_du_Rhin_-_Octobre_2021.jpg) via Wikimedia Commons_
+
 **Wo:** Neuhausen am Rheinfall SH  
 **Anreise ab Kreuzlingen:** ca. 1 h mit dem Zug  
 **Saison:** ganzjährig; im Frühsommer am meisten Wasser  

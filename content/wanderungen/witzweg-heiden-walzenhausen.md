@@ -8,6 +8,9 @@ tags:
   - kinder
 ---
 
+![Witzweg Heiden – Walzenhausen](/bilder/witzweg-heiden-walzenhausen.webp)
+_Witzweg Heiden – Walzenhausen · Foto: Paebi, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Witzweg_2019.jpg) via Wikimedia Commons_
+
 |                            |                                                                |
 | -------------------------- | -------------------------------------------------------------- |
 | **Region**                 | Appenzell Ausserrhoden                                         |

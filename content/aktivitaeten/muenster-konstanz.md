@@ -7,6 +7,9 @@ tags:
   - konstanz
 ---
 
+![Konzilgebäude am Hafen, dahinter das Münster](/bilder/muenster-konstanz.webp)
+_Konzilgebäude am Hafen, dahinter das Münster · Foto: Harke, [CC BY-SA 3.0](https://commons.wikimedia.org/wiki/File:Konstanz_Konzilgeb%C3%A4ude_und_M%C3%BCnster.jpg) via Wikimedia Commons_
+
 **Wo:** Konstanz, Münsterplatz  
 **Anreise ab Kreuzlingen:** ca. 20 Min. zu Fuss vom Bahnhof Kreuzlingen  
 **Saison:** ganzjährig; Turm nicht immer offen  

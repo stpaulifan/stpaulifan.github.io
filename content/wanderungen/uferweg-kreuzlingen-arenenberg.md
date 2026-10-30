@@ -8,6 +8,9 @@ tags:
   - kinder
 ---
 
+![Uferweg Kreuzlingen – Gottlieben – Arenenberg](/bilder/uferweg-kreuzlingen-arenenberg.webp)
+_Uferweg Kreuzlingen – Gottlieben – Arenenberg · Foto: JoachimKohler-HB, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Triboltingen-Untersee-Ermatingen-Reichenau-Hegau.jpg) via Wikimedia Commons_
+
 |                            |                                                            |
 | -------------------------- | ---------------------------------------------------------- |
 | **Region**                 | Thurgau, Untersee                                          |

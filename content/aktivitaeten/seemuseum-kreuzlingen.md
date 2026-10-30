@@ -7,6 +7,9 @@ tags:
   - kreuzlingen
 ---
 
+![Die Kornschütte mit dem Seemuseum](/bilder/seemuseum-kreuzlingen.webp)
+_Die Kornschütte mit dem Seemuseum · Foto: JoachimKohler-HB, [CC BY-SA 4.0](<https://commons.wikimedia.org/wiki/File:Kornsch%C3%BCtte_(Seemuseum)_in_Kreuzlingen_TG.jpg>) via Wikimedia Commons_
+
 **Wo:** Kreuzlingen, im Seeburgpark  
 **Anreise ab Kreuzlingen:** ca. 15 Min. zu Fuss vom Bahnhof Kreuzlingen  
 **Saison:** ganzjährig, Öffnungszeiten prüfen  

@@ -7,6 +7,9 @@ tags:
   - kreuzlingen
 ---
 
+![Bodensee Planetarium und Sternwarte](/bilder/planetarium-kreuzlingen.webp)
+_Bodensee Planetarium und Sternwarte · Foto: Pakwesi, [CC BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Planetarium_und_Sternwarte_Kreuzlingen.jpg) via Wikimedia Commons_
+
 **Wo:** Kreuzlingen, nahe Seeburgpark  
 **Anreise ab Kreuzlingen:** ca. 15–20 Min. zu Fuss vom Bahnhof Kreuzlingen  
 **Saison:** ganzjährig; Vorführungen zu festen Zeiten  

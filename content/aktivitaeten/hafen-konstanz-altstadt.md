@@ -7,6 +7,9 @@ tags:
   - kostenlos
 ---
 
+![Hafen und Altstadt Konstanz](/bilder/hafen-konstanz-altstadt.webp)
+_Hafen und Altstadt Konstanz · Foto: Jakub Hałun, [CC BY 4.0](https://commons.wikimedia.org/wiki/File:Imperia_Statue,_Konstanz,_Germany,_20250502_1834_8716.jpg) via Wikimedia Commons_
+
 **Wo:** Konstanz  
 **Anreise ab Kreuzlingen:** ca. 15 Min. zu Fuss vom Bahnhof Kreuzlingen  
 **Saison:** ganzjährig  

@@ -7,6 +7,9 @@ tags:
   - tagesausflug
 ---
 
+![Ravensburger Spieleland](/bilder/ravensburger-spieleland.webp)
+_Ravensburger Spieleland · Foto: Andreas Praefcke, [CC BY 3.0](https://commons.wikimedia.org/wiki/File:Meckenbeuren_Liebenau_Ravensburger_Spieleland_Eingang.jpg) via Wikimedia Commons_
+
 **Wo:** Meckenbeuren (DE), bei Ravensburg  
 **Anreise ab Kreuzlingen:** Katamaran nach Friedrichshafen, dann Zug/Bus; oder ca. 1 h mit dem Auto  
 **Saison:** ca. April bis Anfang November  
