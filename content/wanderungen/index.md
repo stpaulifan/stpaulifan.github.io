@@ -12,6 +12,14 @@ Wanderungen, die von Kreuzlingen aus gut mit Zug, Bus oder Schiff erreichbar sin
 - [[kronberg|Kronberg]]: kurz, mit Rodelbahn
 - [[witzweg-heiden-walzenhausen|Witzweg]]: gemütlich, mit Seeblick
 
+**Toggenburg** (ca. 2 h)
+
+- [[klangweg-toggenburg|Klangweg Toggenburg]]: Klang-Installationen zum Ausprobieren, top mit Kindern
+
+**Thurgau**
+
+- [[rugelreise|Rugelreise]]: Kugelbahnweg an der Murg bei Frauenfeld, top mit Kindern
+
 **Direkt ab Kreuzlingen und am See**
 
 - [[uferweg-kreuzlingen-arenenberg|Uferweg nach Arenenberg]]: flach, ab der Haustür
